@@ -79,9 +79,7 @@ public class DataBase implements Command {
 		getQuery();
 	}
 	
-	public static void main(String[] args) {
-		DataBase.getInstance().executeQuery();
-	}
+	
 
 	
 	
